@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 # Jekyll docs
-gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages', '>= 207', group: :jekyll_plugins
