@@ -19,7 +19,7 @@
     "chalk": "2.3.2",
     "figures": "^2.0.0",
     "inquirer": "^5.0.1",
-    "jest": "22.4.2",
+    "jest": "26.0.0",
     "react-dev-utils": "0.5.2"
   }
 }
