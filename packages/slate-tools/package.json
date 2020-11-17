@@ -57,7 +57,7 @@
     "img-loader": "2.0.1",
     "inquirer": "^5.0.1",
     "ip": "^1.1.5",
-    "jest": "22.4.2",
+    "jest": "26.0.0",
     "mini-css-extract-plugin": "^0.4.3",
     "minimatch": "^3.0.4",
     "minimist": "1.2.0",
@@ -76,13 +76,13 @@
     "tapable": "^1.0.0",
     "uglifyjs-webpack-plugin": "^1.0.1",
     "uuid": "^3.2.1",
-    "webpack": "^4.1.1",
+    "webpack": "^5.1.1",
     "webpack-dev-middleware": "3.4.0",
     "webpack-hot-middleware": "2.21.2",
     "webpack-merge": "4.1.2",
     "write-file-webpack-plugin": "4.4.0",
     "yamljs": "0.2.10",
-    "yargs": "^11.0.0"
+    "yargs": "^16.0.0"
   },
   "devDependencies": {
     "mock-fs": "^4.6.0"
