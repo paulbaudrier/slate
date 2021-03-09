@@ -68,7 +68,7 @@
     "postcss-reporter": "^5.0.0",
     "prettier": "^1.10.2",
     "raw-loader": "^0.5.1",
-    "react-dev-utils": "0.5.2",
+    "react-dev-utils": "11.0.4",
     "sass-loader": "6.0.7",
     "style-loader": "0.20.3",
     "stylelint": "^9.1.2",
