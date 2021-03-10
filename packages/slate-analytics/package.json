@@ -23,7 +23,7 @@
     "axios": "^0.18.0",
     "chalk": "^2.3.0",
     "inquirer": "^5.0.1",
-    "react-dev-utils": "^5.0.0",
+    "react-dev-utils": "^11.0.4",
     "uuid": "^3.2.1",
     "word-wrap": "^1.2.3"
   },
